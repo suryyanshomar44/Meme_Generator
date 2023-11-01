@@ -4,6 +4,23 @@
 .skip {
   background-color: #f0ad4e;
 }
+.previous {
+  background-color: #83bbbb;
+  margin-right: 10px;
+}
 .generate {
   background-color: #0275d8;
+  margin-right: 10px;
+}
+.memes{
+  background-color: #f16868;
+  text-decoration: none;
+}
+.btnContainer{
+  width: 70%;
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15%;
 }
